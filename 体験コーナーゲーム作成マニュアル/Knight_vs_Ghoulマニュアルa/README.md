@@ -6,10 +6,10 @@ Knight（騎士）とGhoul（人の肉を食べる悪鬼）がArrow（矢）を�
 プログラミングの難易度は「むずかしい」です。  
 
 ## 表紙：
-![表紙](Knight vs Ghoulマニュアルa.png)
+![表紙](Knight_vs_Ghoulマニュアルa.png)
 
 ## ダウンロード：
-[Knight vs Ghoulマニュアルa](Knight vs Ghoulマニュアルa.docx)  
+[Knight_vs_Ghoulマニュアルa](Knight_vs_Ghoulマニュアルa.docx)  
 
 ## 作成：
 CoderDojo Mito
