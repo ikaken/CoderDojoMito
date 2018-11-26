@@ -1,16 +1,15 @@
-# クイズゲーム
+# Knight vs Ghoul（シューティングゲーム）
+
 
 ## 説明：
-猫が出す問題を、チェックとバツで答えます。  
-プログラミングの難易度は「ふつう」です。  
+Knight（騎士）とGhoul（人の肉を食べる悪鬼）がArrow（矢）を使って戦います。  
+プログラミングの難易度は「むずかしい」です。  
 
 ## 表紙：
-![表紙](クイズマニュアル.png)
+![表紙](Knight vs Ghoulマニュアルa.png)
 
 ## ダウンロード：
-[スカッシュマニュアルv2](クイズマニュアル.docx)  
-[問題.txt](問題.txt)  
-[答え.txt](答え.txt)  
+[Knight vs Ghoulマニュアルa](Knight vs Ghoulマニュアルa.docx)  
 
 ## 作成：
 CoderDojo Mito
