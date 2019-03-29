@@ -6,13 +6,13 @@ Knight（騎士）とGhost（幽霊）がArrow（矢）を使って戦います�
 プログラミングの難易度は「むずかしい」です。  
 
 ## 表紙：
-![表紙](Knight vs Ghostマニュアルa.png)
+![表紙](Knight_vs_Ghostマニュアルa.png)
 
 ## PDF：
-[Knight vs Ghostマニュアルa](Knight vs Ghostマニュアルa.pdf)  
+[Knight vs Ghostマニュアルa](Knight_vs_Ghostマニュアルa.pdf)  
 
 ## ダウンロード（word）：
-[Knight vs Ghostマニュアルa](Knight vs Ghostマニュアルa.docx)  
+[Knight vs Ghostマニュアルa](Knight_vs_Ghostマニュアルa.docx)  
 
 ## 作成：
 CoderDojo Mito
