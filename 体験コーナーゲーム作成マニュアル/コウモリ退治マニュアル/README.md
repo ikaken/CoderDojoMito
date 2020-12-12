@@ -13,6 +13,9 @@
 ## ダウンロード（word）：
 [コウモリ退治マニュアル](コウモリ退治マニュアル.docx)  
 
+## ワーク動画：
+[【Scratch】コウモリ退治ゲームを作ろう【プログラミング】](https://youtu.be/LjssuNd0HZ0)（youtube）
+
 ## 作成：
 CoderDojo Mito
 
